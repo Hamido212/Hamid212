@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://cdn.discordapp.com/attachments/773301286983565332/1074920585076932659/Design_ohne_Titel.png"  />
+</div>
+
+###
+
 <h2 align="left">Hi 👋! My name is Hamid and I'm a Computer Science Student  from germany</h2>
 
 ###
@@ -6,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Hamid Yosefzai from Afghanistan currently living in Germany. A student who really enjoy learning programming languages.</p>
+<p align="left">I'm Hamid Yosefzai from Afghanistan currently living in Germany. A student who really enjoys learning programming languages.</p>
 
 ###
 
@@ -37,12 +43,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Hamido212/Hamido212/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
