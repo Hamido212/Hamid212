@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/773301286983565332/1074923444258488330/Design_ohne_Titel_2.png)](hiibo.de)
+[![MasterHead](https://art.pixilart.com/sr2c64c3ddac8f2.gif)](hiibo.de)
 
 
 ###
