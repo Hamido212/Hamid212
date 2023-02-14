@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">🌱 Currently learning Python 🐍, Machine Learning 🤖, Web Developement 🌐</p>
+<blockquote><p align="left">🌱 Currently learning Python 🐍, Machine Learning 🤖, Web Developement 🌐</p></blockquote>
 
 ###
 
